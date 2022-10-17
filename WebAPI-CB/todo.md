@@ -1,0 +1,5 @@
+- Retrait du code du controller (création d'une interface)
+- Test à ajouter
+- Documentation swagger à mieux compléter
+- Suppression de toutes les piles
+- Remplacer l'objet RpnStack par un dictionnaire (devrait être suffisant).
